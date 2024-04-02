@@ -10,18 +10,18 @@
 
 ### Website Preview
 #### Home Page
-<img src="https://drive.google.com/file/d/1styIZcLibbN3VQr4b9V3omF-nAShGj3L/view?usp=sharing" width="900">
+<img src="https://github.com/prashantc424/My-Portfolio-master/blob/main/website_images/Home-Page.gif" width="900">
 
 
 #### About Page
-<img src="https://drive.google.com/file/d/11uWug4chk0R4bDyfwl_u7ICH0njZnv6Z/view?usp=drive_link" width="900">
+<img src="https://github.com/prashantc424/My-Portfolio-master/blob/main/website_images/About.png" width="900">
 
 
 #### Projects Page
-<img src="https://drive.google.com/file/d/1AESpEGRHSQGO2lQabFcJ30BH_q1NbY2t/view?usp=drive_link" width="900">
+<img src="https://github.com/prashantc424/My-Portfolio-master/blob/main/website_images/Project.png" width="900">
 
 #### Projects Page
-<img src="https://drive.google.com/file/d/12Hc15baRn9corXvpuNL2Wuxqi54iiOvt/view?usp=drive_link" width="900">
+<img src="https://github.com/prashantc424/My-Portfolio-master/blob/main/website_images/Project%202.png" width="900">
   
 
 
