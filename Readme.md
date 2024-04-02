@@ -10,18 +10,18 @@
 
 ### Website Preview
 #### Home Page
-<img src="HomePage.gif" width="900">
+<img src="[website_images/HomePage.gif](https://drive.google.com/file/d/1styIZcLibbN3VQr4b9V3omF-nAShGj3L/view?usp=sharing)" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="[website_images/AboutPage.png](https://drive.google.com/file/d/11uWug4chk0R4bDyfwl_u7ICH0njZnv6Z/view?usp=drive_link)" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="[website_images/ProjectPage.png](https://drive.google.com/file/d/1AESpEGRHSQGO2lQabFcJ30BH_q1NbY2t/view?usp=drive_link)" width="900">
 
 #### Projects Page
-<img src="website_images/ProjectPage2.png" width="900">
+<img src="[website_images/ProjectPage2.png](https://drive.google.com/file/d/12Hc15baRn9corXvpuNL2Wuxqi54iiOvt/view?usp=drive_link)" width="900">
   
 
 
